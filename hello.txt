@@ -1,6 +1,4 @@
 hello welcome to Ludum Dare 51
 
 game goes here.
-
-
-this is  peter's message
+this is  peter's message. hey lol
